@@ -27,7 +27,7 @@ public class UserController {
 
 	/**
 	 * Save the user data in database table USER
-	 * 
+	 * save test
 	 * @param user
 	 */
 	@PostMapping(value = "/saveUser")
